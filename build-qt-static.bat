@@ -1,0 +1,2 @@
+set PATH=C:\Qt\Tools\mingw1120_64\bin\;C:\Strawberry\perl\bin\;C:\Qt\Tools\CMake_64\bin\;C:\Qt\Tools\Ninja\;%PATH%
+C:\Qt\6.5.0\Src\configure.bat -prefix "D:\Qt-6.5.0-static" -static -static-runtime -qt-pcre -qt-freetype -no-harfbuzz -no-libpng -no-libjpeg -no-tiff -no-webp -qt-zlib -qt-sqlite -platform win32-g++
